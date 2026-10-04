@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+}
+.bio{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color:blanchedalmond;
+}
+.bio:hover{
+    font-size: 20px
+}
+.skills{
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color:blanchedalmond;
+}
+
+#image1{
+    margin-left: 10%;
+}
+.skills:hover{
+    font-size: 20px
+}
+.contact{
+    border: 2px solid black;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color:blanchedalmond;
+}
+footer{
+    border: 2px solid black;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color:blanchedalmond;
+}
